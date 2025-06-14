@@ -20,3 +20,7 @@ A browser-style URL phishing detector powered by ML.
 - Streamlit frontend
 
 ## 🖥️ Run Locally
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
